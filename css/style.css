@@ -385,8 +385,13 @@ footer {
     width: 100%;
   }
 
+  .redes ul {
+    display: block;
+  }
+
   .redes li {
-    padding: 1vw;
+    padding: 2vw;
+    margin: 5vw 0;
   }
 
 
